@@ -1,4 +1,4 @@
-﻿namespace PeopleAPI.Models.SettingsClass
+﻿namespace techAPI.Models.SettingsClass
 {
     public  class MongoDBSettings
     {
